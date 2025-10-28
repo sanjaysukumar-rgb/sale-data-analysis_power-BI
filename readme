@@ -1,4 +1,88 @@
 📊 Sales Data Analysis Power BI Dashboard
 🧠 Project Overview
 
-This Power BI dashboard provides an end-to-end analysis of company sales performance, profitability, discount distribution, and regional trends. It delivers meaningful insights into sales patterns, top-performing products, and business growth opportunities through interactive visuals and dynamic filtering options.
+This Power BI dashboard provides an end-to-end analysis of company sales performance, profitability, discount distribution, and regional trends. 
+It delivers meaningful insights into sales patterns, top-performing products, and business growth opportunities through interactive visuals and dynamic filtering options.
+
+🎯 Objectives
+
+1)The dashboard is designed to answer key business questions such as:
+2)Which are the Top 5 and Bottom 5 Products by Sales, Profit, and Quantity Sold?
+3)How do Sales Trends vary over time (daily, monthly, quarterly, annually)?
+4)What is the relationship between Sales and Profit across different product categories?
+5)How do Sales, Profit, and Quantity Sold compare between any two selected time periods?
+6)What is the Average Discount in each discount category?
+7)What is the Total Number of Orders processed?
+8)How can we view detailed metrics such as Sales, Profit, Discount, and Net Sales for each order with visual filters?
+9)What are the Sales Contributions by different Cities?
+
+📊 Dashboard Features
+🏆 1. Top & Bottom Products
+-->Displays the top and bottom 5 products by Sales, Profit, and Quantity Sold.
+-->Helps identify best-selling products and low-performing SKUs.
+
+📈 2. Time-Based Sales Trend Analysis
+-->Interactive line charts showing daily, monthly, quarterly, and annual sales trends.
+-->Allows users to explore seasonal variations and peak sales periods.
+
+💰 3. Sales vs. Profit Correlation
+-->Scatter plot visualization showing the relationship between sales and profit.
+-->Identifies whether higher sales lead to higher profitability.
+
+📅 4. Period Comparison
+-->Compare Sales, Profit, and Quantity Sold between two user-selected time periods.
+-->Ideal for growth analysis and performance evaluation.
+
+🎟️ 5. Discount Analysis
+-->Shows average discounts applied within each category.
+-->Provides insights into how discounts affect sales and profit margins.
+
+📦 6. Orders Summary
+-->Displays the total number of orders placed within the dataset.
+-->Key KPI card for quick business overview.
+
+📋 7. Detailed Metrics Table
+//Interactive table displaying:
+-->Sales, Profit, Discount, Net Sales, Customer ID, Product Name, and Promotion Category.
+-->Fully filterable using visual slicers (Product, Date, Customer ID, Promotion Category).
+
+🏙️ 8. City-Wise Sales
+-->Geographic visualization showing sales distribution by cities.
+-->Highlights regions with the highest and lowest contributions.
+
+🛠️ Tools & Technologies
+-->Tool: Power BI Desktop
+-->Data Source: Sales dataset (Excel/CSV)
+-->Visual Types Used:
+        *Bar Chart
+        *Line Chart
+        *Scatter Plot
+        *Pie Chart
+        *Card Visuals
+        *Map Visual
+        *Table
+
+💡 Key Insights
+1)Identified top-performing products driving maximum sales and profit.
+2)Observed seasonal spikes in sales during specific months.
+3)Found strong correlation between discounts and increased quantity sold.
+4)Noted profit fluctuations across different regions and product categories.
+
+🚀 How to Use
+1)Download the .pbix file from this repository.
+2)Open it using Power BI Desktop (latest version recommended).
+3)Use the filters and slicers to explore trends and insights interactively.
+4)Analyze performance metrics to support data-driven decision-making
+
+🧾 File Details
+
+File Name: Sales Data Analysis.pbix
+Created By: Sanjay Sukumar M
+Platform: Power BI Desktop
+Category: Business Analytics / Data Visualization
+
+👤 Author
+
+Sanjay Sukumar M
+B.E. Electronics and Communication Engineering
+SSN College of Engineering
